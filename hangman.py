@@ -35,3 +35,4 @@ while guessesMade<guessesAllowed and dashedWord!=wordArray:
 
 if dashedWord==wordArray:
     print("You Guessed it Correctly!!!")
+#This is a github test
